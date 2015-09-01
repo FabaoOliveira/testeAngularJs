@@ -1,0 +1,19 @@
+{
+  "name": "testangular1",
+  "version": "0.0.1",
+  "description": "Primeiro projeto com o angularJs",
+  "keywords": [
+    "angular"
+  ],
+  "authors": [
+    "Fabio Sousa"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
