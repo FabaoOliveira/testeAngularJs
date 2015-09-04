@@ -18,8 +18,7 @@ module.exports = function (grunt) {
                 src: [
                     'bower_components/jquery/dist/jquery.js',
                     'bower_components/materialize/dist/js/materialize.js',
-                    'bower_components/angular/angular.js',
-                    'bower_components/angular-route/angular-route.js'
+                    'bower_components/angular/angular.js'
                 ],
                 dest: 'wwwroot/assets/js/scripts.min.js'
             }
